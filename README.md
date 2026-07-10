@@ -1,4 +1,6 @@
-# CANLAH AI Agent Skill Project
+# canlah-ai-skill
+
+> **GenPark AI Agent Skill** -- # CANLAH AI Agent Skill Project
 
 This project contains the comprehensive product research and custom agent skill definition for **CANLAH AI**, configured for the **Google Antigravity IDE**.
 
